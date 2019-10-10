@@ -57,6 +57,13 @@ header {
   font-size: 14px;
   line-height: 35px;
 }
+.sidebar ul{
+  margin-left: 10px;
+}
+
+.sidebar i{
+  margin-right: 9px;
+}
 
  img{
    display: block;
@@ -119,7 +126,6 @@ header {
   font-size: 14px;
 }
 
-
 /* Other classes : ul, li, icons etc */
 a{
   color:black;
@@ -139,9 +145,9 @@ a:hover{
   color:#1da1f2;
 }
 .fa-linkedin{
-  color: 0e76a8;
+  color: #0e76a8;
 }
-ul.fa-ul{
+ul .fa-ul{
   padding:1px;
   margin: 10px 30px;
 }
